@@ -57,8 +57,8 @@ class EsmFamil():
         return max_point, points
 
 
-
-
+class Person():
+    pass
 
 
 
